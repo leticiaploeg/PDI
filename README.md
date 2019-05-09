@@ -1,4 +1,4 @@
-# PDI
+# PDI - T1
 Processamento de Imagens
 
 Estes códigos são referentes ao primeiro trabalho de Processamento de Imagens (PPGEE, UnB, 1/2019).
